@@ -68,3 +68,6 @@ MQTT protocol is being used to send all the sensor data to the gateway and from 
 A logistic regression model is being trained to detect any kind of anomaly and notification is sent by IFTTT and live monitoring is done through the Blynk IoT app.
 All the patient's health data is cryptographically secured so as to prevent any kind of breach in the critical health data.
 The data is being stored real-time in the MySQL database parallely.
+
+Check out more at:
+https://www.hackster.io/Pratik_Roy98/iot-smart-health-ed7b9f
